@@ -1,19 +1,49 @@
-# Nitro-files
+| Nitro |Source|still|Best|
+|---|---|---|---|
 
-![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](medo/IMG_20201208_122923_277.jpg)
+![Hi I am Medo the developer of this source from Iraq Baghdad 🇮🇶](images/nitro.png)
 
 <p align="center">
    <a href="https://telegram.me/ggggw" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="images/telegram.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://sourcenitro.online" target="blank">
+    <img align="center" src="images/global.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://fb.com/midudev.frontend" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
-  </a>
+
+
+<div align="center">
+   <h1>مرحباً بكم في <a href="https://telegram.me/vvhvvv">سورس نيترو</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> طريقة التشغيل<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+|انسخ الكود والصقة بالترمنال واضغط انتر|
+|---|
+***
+`wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py
+`
+***
+|وانتظر تنصيب المكاتب بعدها يطلب منك التوكن والايدي املئ معلوماتك واضغط انتر بعدها اذهب الى التليكرام واستعمل بوتك|
+|---|
+
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/MEgmtF9GMMLuqpgke0/giphy.gif" width="30"> فيديو لطريقة التنصيب<img src="https://media.giphy.com/media/MEgmtF9GMMLuqpgke0/giphy.gif" width="30"></h3>
+</div>
+
+[![Demo CountPages alpha](https://share.gifyoutube.com/yoK74V.gif)](https://medo.gq/videos/ex.gif)
+
+
+| لغه برمجة السورس |
+|---|
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
 
+|BoT|https://t.me/i_PBot||
+|---|----|-----|
+|Medo|https://t.me/GGGGw||
+|ححمود|https://t.me/QoQo6 ||
