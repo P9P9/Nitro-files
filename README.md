@@ -1,6 +1,6 @@
 # Nitro-files
 
-![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](https://user-images.githubusercontent.com/1561955/87921826-64412300-ca7b-11ea-82b3-944145ae77fa.png)
+![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](medo/IMG_20201208_122923_277.jpg)
 
 <p align="center">
    <a href="https://telegram.me/ggggw" target="blank" style='margin-right:4px'>
